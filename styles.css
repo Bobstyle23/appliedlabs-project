@@ -1,0 +1,223 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar-text {
+  width: 49px;
+  height: 17px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-family: "Open Sans";
+  font-style: normal;
+  line-height: 17px;
+  letter-spacing: 0.175em;
+  margin-bottom: 15px;
+}
+
+.navbar-icon {
+  width: 16px;
+  height: 16px;
+  left: 20px;
+}
+
+.intro-heading {
+  /* position: absolute; */
+  margin-bottom: 100px;
+  max-width: 379px;
+  height: 35px;
+  font-family: "Open Sans";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.intro-subheading {
+  /* position: absolute; */
+  margin-bottom: 100px;
+  max-width: 600px;
+  height: 138px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 23px;
+  top: 309px;
+}
+
+.intro-subtext {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 23px;
+  max-width: 511px;
+  height: 23px;
+}
+
+.intro-img {
+  max-width: 620px;
+  height: 720px;
+  left: 1060px;
+}
+
+@media (max-width: 375px) {
+  .intro-img {
+    max-width: 365px;
+    height: 318px;
+  }
+}
+
+.landing-img {
+  max-width: 680px;
+  height: 460px;
+  left: 40px;
+}
+
+@media (max-width: 375px) {
+  .landing-img {
+    max-width: 343px;
+    height: 232px;
+    margin-right: -40px;
+  }
+}
+
+.landing-header {
+  width: 387px;
+  height: 27px;
+  margin-left: 60px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 27px;
+}
+
+.landing-text {
+  max-width: 425px;
+  height: 54px;
+  margin-left: 80px;
+  font-family: "Arca Majora 3";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 27px;
+}
+
+.text-icon {
+  width: 9px;
+  height: 27px;
+  color: #c2a578;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.app-body-text {
+  max-width: 517px;
+  height: 228px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 57px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.app-body-img {
+  max-width: 680px;
+  height: 460px;
+  margin: 0 auto;
+}
+@media (max-width: 375px) {
+  .app-body-img {
+    max-width: 343px;
+    height: 232px;
+    margin-right: -40px;
+  }
+}
+
+.navigation-text {
+  /* max-width: 335px;
+  height: 36px; */
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  /* line-height: 36px;
+  letter-spacing: 0.08em; */
+  text-transform: uppercase;
+}
+.product-text {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+@media (min-width: 375px) {
+  .arrow-img {
+    margin-left: 238px;
+    margin-top: -80px;
+  }
+}
+
+.footer {
+}
+
+.newsletter {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.165em;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+
+.email {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 141.8%;
+}
+
+.againfaster-text {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 141.8%;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.footer-items {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 167.5%;
+  color: #7e7e7e;
+}
+
+.gethelp-text {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 141.8%;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
